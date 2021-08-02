@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Leonado Minari</h1>
 
-- 🌱 I’m currently work with **VueJs and Laravel**
+- 🌱 I’m currently work with **VueJs, Flutter and Laravel**
 
 - 📫 How to reach me **minari.leo@gmail.com**
 
